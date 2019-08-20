@@ -1,0 +1,2 @@
+# happymall-font
+happymall
