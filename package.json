@@ -1,0 +1,19 @@
+{
+  "name": "happymall-font",
+  "version": "1.0.0",
+  "description": "mall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyrieLing1994/happymall-font.git"
+  },
+  "author": "lxd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyrieLing1994/happymall-font/issues"
+  },
+  "homepage": "https://github.com/KyrieLing1994/happymall-font#readme"
+}
